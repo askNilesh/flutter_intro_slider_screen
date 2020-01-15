@@ -1,16 +1,8 @@
-# flutter_intro_screen
+# Flutter Intro Slider
 
-A new Flutter application.
+Build Intro Slider for your Flutter App
 
-## Getting Started
+![Screenshot_1579086883](https://user-images.githubusercontent.com/30828060/72429919-032c5000-37b7-11ea-97ac-abd1dc990593.png)
 
-This project is a starting point for a Flutter application.
+![Screenshot_1579086889](https://user-images.githubusercontent.com/30828060/72429926-06bfd700-37b7-11ea-97fe-fe80863a0fe4.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
